@@ -1,0 +1,19 @@
+body {
+    background:lightcoral;
+    color: maroon;
+}
+h1 {
+    color: white;
+}
+a {
+    padding: 6px;
+}
+a:link {
+    color: white;
+}
+a:visited {
+    background: greenyellow;
+}
+a:hover {
+    color: aqua;
+}
